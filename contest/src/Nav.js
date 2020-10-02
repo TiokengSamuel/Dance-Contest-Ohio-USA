@@ -13,7 +13,12 @@ function Nav({setSelectedOption}) {
                 </div>
         </div>
             <h2>Contest</h2>
-            <h2>Vote</h2>
+            <<div className="header__icons">
+                <div className="header__icon header__icon--active">
+                    <HomeIcon/>
+                    <p>Home</p>
+                </div>
+        </div>
             <h2>Products</h2>
             <h2>Support</h2>
         </div>
