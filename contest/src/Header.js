@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.css'
-import Button from 'react-bootstrap/Button'
+import {Button} from 'react-bootstrap'
 // import HomeIcon from '@material-ui/icons/Home'
 // import FlashOnIcon from '@material-ui/icons/FlashOn'
 // import LiveTvIcon from '@material-ui/icons/LiveTv'
@@ -40,7 +40,7 @@ function Header() {
                 </div>
                 
             </div>*/}
-            <Button variant="outline-light">Login</Button>{' '}
+            <Button color= "primary" variant="outline-light">Login</Button>{' '}
             <Button variant="outline-light">Sign up</Button>{' '}
         </div>
     )
