@@ -1,0 +1,70 @@
+.slider {
+    width: 100%;
+    height: 700px;
+    background-image: url('../img/kemda\ sandra\ winner\ of\ slam\ the\ skill.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.slider-overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.65);
+    position: relative;
+}
+
+.slider-content{
+    position: absolute;
+    top: 39%;
+    width: 100%;
+}
+
+
+
+.btn1{
+    text-decoration: none !important;
+    padding: 10px 30px;
+    background-color: transparent;
+    color: white;
+    letter-spacing: 1px;
+    border: 1px solid white;
+    border-radius: 50px;
+    transition: all 0.5s ease-in;
+}
+
+.btn1:hover{
+    text-decoration: none !important;
+    background-color: #a3297a;
+    border-color: #a3297a;
+}
+
+
+.social-network a.fa {
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 25px;
+    margin-right: 2px;
+    transition: all 0.5 ease-in !important;
+}
+
+.social-network a.fa:hover{
+    text-decoration: none;
+    background-color: #a3297a;
+    border: 1px #a3297a;
+    transition: all 0.5 ease-in !important;
+
+}
+
+.con-text{
+    color: white;
+}
+
+
+.slider .text, .slider .typed-cursor{
+    display: inline;
+    font-size: 40px;
+    color: #ffffff;
+}
