@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.css'
-import '~bootstrap/scss/bootstrap.scss';
+import { Button } from 'react-bootstrap';
 // import HomeIcon from '@material-ui/icons/Home'
 // import FlashOnIcon from '@material-ui/icons/FlashOn'
 // import LiveTvIcon from '@material-ui/icons/LiveTv'
@@ -40,8 +40,8 @@ function Header() {
                 </div>
                 
             </div>*/}
-            <button type="button" class="btn btn-raised btn-sm">Login</button>
-            <button type="button" class="btn btn-raised btn-sm">Sign Up</button>
+            <Button type="button" class="btn btn-raised btn-sm">Login</Button>
+            <Button type="button" class="btn btn-raised btn-sm">Sign Up</Button>
         </div>
     )
 }
