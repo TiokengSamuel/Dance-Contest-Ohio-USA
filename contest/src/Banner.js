@@ -1,5 +1,6 @@
 import React from 'react'
 import './Banner.css'
+import {Button} from 'react-bootstrap'
 
 function Banner() {
     return (
@@ -10,7 +11,7 @@ function Banner() {
                         
                         <div className="text">Empowering Kids All Over the World</div>
                         <div className="cta-div">
-                            <a href="" className="btn1"><span className="con-text">Contact Us</span></a>
+                            <Button><span className="con-text">Contact Us</span></Button> 
                         </div>
                         
 
