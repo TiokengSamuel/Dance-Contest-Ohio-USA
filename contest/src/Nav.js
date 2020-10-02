@@ -4,15 +4,14 @@ import './Nav.css'
 function Nav({setSelectedOption}) {
     return (
         <div className="navi">
-            <h2>Trending</h2>
-            <h2>Top Rated</h2>
-            <h2>Action</h2>
-            <h2>Horror</h2>
-            <h2>Romance</h2>
-            <h2>Mystery</h2>
-            <h2>Contest</h2>
-            <h2>Werstern</h2>
-            <h2>Animation</h2>
+            <h2>Home</h2>
+            <h2>Dance</h2>
+            <h2>Rap</h2>
+            <h2>Music</h2>
+            <h2>Fav Contestant</h2>
+            <h2>Vote</h2>
+            <h2>Products</h2>
+            <h2>Support</h2>
         </div>
     )
 }
