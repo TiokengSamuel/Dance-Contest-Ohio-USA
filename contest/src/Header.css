@@ -5,6 +5,8 @@
     align-items: center;
     justify-content: space-between;
     overflow-x: scroll;
+    background-image: linear-gradient(to right, #051421, #042727);
+   
 }
 
 /*Removing scroll*/
