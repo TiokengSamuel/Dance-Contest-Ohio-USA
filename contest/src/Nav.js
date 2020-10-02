@@ -5,6 +5,7 @@ import ThumbsUpIcon from '@material-ui/icons/ThumbUpSharp'
 import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 import SupervisorAccountIcon from '@material-ui/icons/SupervisorAccount';
 import CardGiftcardIcon from '@material-ui/icons/CardGiftcard';
+import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
 
 function Nav({setSelectedOption}) {
     return (
@@ -19,7 +20,7 @@ function Nav({setSelectedOption}) {
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
                     <SupervisorAccountIcon/>
-                    <p>Contestants</p>
+                    <p>Contestant<span><ArroDropDownIcon/></span></p>
                 </div>
             </div>
             <div className="header__icons">
