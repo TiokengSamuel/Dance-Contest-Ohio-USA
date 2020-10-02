@@ -15,7 +15,12 @@ function Nav({setSelectedOption}) {
                         <p>Home</p>
                     </div>
             </div>
-            <h2>Contest</h2>
+            <div className="header__icons">
+                <div className="header__icon header__icon--active">
+                    <ShoppingBasketIcon/>
+                    <p>Contestants</p>
+                </div>
+            </div>
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
                     <ThumbsUpIcon/>
