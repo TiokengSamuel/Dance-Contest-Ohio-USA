@@ -72,6 +72,10 @@ h1 {
     flex-direction: column !important;
 }
 
+.btn-sign:hover {
+    box-shadow: white;
+}
+
 div > Button {
     display: none;
     text-transform: uppercase;
