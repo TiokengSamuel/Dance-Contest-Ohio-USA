@@ -73,7 +73,7 @@ h1 {
 }
 
 .btn-sign:hover {
-    box-shadow: white;
+    box-shadow: white !important;
 }
 
 div > Button {
