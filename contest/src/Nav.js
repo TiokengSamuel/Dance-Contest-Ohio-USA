@@ -3,6 +3,7 @@ import './Nav.css'
 
 function Nav({setSelectedOption}) {
     return (
+    <center>
         <div className="navi">
             <h2>Home</h2>
             <h2>Dance</h2>
@@ -13,6 +14,7 @@ function Nav({setSelectedOption}) {
             <h2>Products</h2>
             <h2>Support</h2>
         </div>
+    </center>
     )
 }
 
