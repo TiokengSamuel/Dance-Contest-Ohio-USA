@@ -4,6 +4,7 @@ import HomeIcon from '@material-ui/icons/Home'
 import ThumbsUpIcon from '@material-ui/icons/ThumbUpSharp'
 import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 import SupervisorAccountIcon from '@material-ui/icons/SupervisorAccount';
+import CardGiftcardIcon from '@material-ui/icons/CardGiftcard';
 
 function Nav({setSelectedOption}) {
     return (
@@ -17,7 +18,7 @@ function Nav({setSelectedOption}) {
             </div>
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
-                    <SupervisorAccountIcon>
+                    <SupervisorAccountIcon/>
                     <p>Contestants</p>
                 </div>
             </div>
