@@ -28,7 +28,7 @@
     font-size: 20px;
 }
 
-.navi > h2:hover {
+.navi > div:hover {
     opacity: 1;
     transform: scale(1.2)
 }
