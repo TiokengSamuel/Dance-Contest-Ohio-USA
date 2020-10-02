@@ -17,7 +17,7 @@ function Nav({setSelectedOption}) {
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
                     <ThumbsUpIcon/>
-                    <p>Home</p>
+                    <p>Vote</p>
                 </div>
             </div>
             <h2>Products</h2>
