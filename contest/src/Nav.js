@@ -17,7 +17,7 @@ function Nav({setSelectedOption}) {
             </div>
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
-                    <ShoppingBasketIcon/>
+                    <SupervisorAccountIcon>
                     <p>Contestants</p>
                 </div>
             </div>
