@@ -11,7 +11,7 @@ import './Header.css'
 function Header() {
     return (
         <div className="header">
-            <h1><b>CONTEST OHIO</b>C</h1>
+            <h1><b>CONTEST OHIO</b></h1>
             {/* <div className="header__icons">
                 <div className="header__icon header__icon--active">
                     <HomeIcon/>
