@@ -71,3 +71,7 @@ h1 {
     display: flex !important;
     flex-direction: column !important;
 }
+
+div > Button {
+
+}
