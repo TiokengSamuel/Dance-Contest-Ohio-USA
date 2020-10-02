@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.css'
-import { Button } from 'react-bootstrap';
+import Button from 'react-bootstrap/Button'
 // import HomeIcon from '@material-ui/icons/Home'
 // import FlashOnIcon from '@material-ui/icons/FlashOn'
 // import LiveTvIcon from '@material-ui/icons/LiveTv'
