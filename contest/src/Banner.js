@@ -12,11 +12,7 @@ function Banner() {
                         <div className="cta-div">
                             <a href="" className="btn1"><span className="con-text">Contact Us</span></a>
                         </div>
-                        <div className="social-network">
-                            <a href="" class="fa fa-facebook"></a>
-                            <a href="" class="fa fa-instagram"></a>
-                            <a href="" class="fa fa-whatsapp"></a>
-                        </div>
+                        
 
                     </div>
                 </div>
