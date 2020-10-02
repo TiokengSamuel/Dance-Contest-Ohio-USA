@@ -41,9 +41,15 @@ function Header() {
                 </div>
                 
             </div>*/}
-            <Button className="btn-sign" color= "primary" variant="outline-light">Login</Button>
+            <div>
+                <Button className="btn-sign" color= "primary" variant="outline-light">Login</Button>
+            </div>
             
-            <Button className="btn-sign" variant="outline-light">Sign up</Button>
+            <div>
+                <Button className="btn-sign" variant="outline-light">Sign up</Button>
+            </div>
+            
+            
         </div>
     )
 }
