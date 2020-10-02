@@ -66,3 +66,7 @@ h1 {
     margin-right: auto!important;
     font-weight: 400;
 }
+
+.btn {
+    padding: 5px;
+}
