@@ -12,7 +12,7 @@ function Banner() {
                         <div className="text"></div>
                         <br><br>
                         <div className="cta-div">
-                            <a href="" class="btn1"><span class="con-text">Contact Us</span></a>
+                            <a href="" className="btn1"><span className="con-text">Contact Us</span></a>
                         </div>
                         <br>
                         <br>
