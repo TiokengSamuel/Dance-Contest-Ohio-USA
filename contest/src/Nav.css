@@ -4,6 +4,7 @@
     overflow-x: scroll;
     padding: 10px;
     padding-left: 40px;
+    background-image: linear-gradient(to right, #051421, #042727);
 }
 
 /*Hiding scrollbar*/
