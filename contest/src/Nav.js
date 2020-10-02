@@ -20,7 +20,7 @@ function Nav({setSelectedOption}) {
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
                     <SupervisorAccountIcon/>
-                    <p>Contestant<span><ArroDropDownIcon/></span></p>
+                    <p>Contestant<span><ArrowDropDownIcon/></span></p>
                 </div>
             </div>
             <div className="header__icons">
