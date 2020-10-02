@@ -1,4 +1,4 @@
-.nav {
+.navi {
     display: flex!important;
     color: white!important;
     overflow-x: scroll!important;
@@ -8,17 +8,17 @@
 }
 
 /*Hiding scrollbar*/
-.nav::-webkit-scrollbar {
+.navi::-webkit-scrollbar {
     display: none!important;
 }
 
-.nav {
+.navi {
     -ms-overflow-style: none!important;
     scrollbar-width: none !important;
 }
 /*Hiding the scrollbar*/
 
-.nav > h2 {
+.navi > h2 {
     cursor: pointer;
     margin-left: 30px;
     margin-right: 30px;
@@ -28,7 +28,7 @@
     font-size: 20px;
 }
 
-.nav > h2:hover {
+.navi > h2:hover {
     opacity: 1;
     transform: scale(1.2)
 }

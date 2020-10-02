@@ -3,7 +3,7 @@ import './Nav.css'
 
 function Nav({setSelectedOption}) {
     return (
-        <div className="nav">
+        <div className="navi">
             <h2>Trending</h2>
             <h2>Top Rated</h2>
             <h2>Action</h2>
