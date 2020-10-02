@@ -67,9 +67,8 @@
     display: inline;
     font-size: 40px;
     color: #ffffff;
+    padding: 40px;
+    
 }
 
-.text {
-    font-weight: 400;
-    padding: 40px;
-}
+
