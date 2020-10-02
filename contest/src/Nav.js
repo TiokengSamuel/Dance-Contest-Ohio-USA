@@ -2,6 +2,8 @@ import React from 'react'
 import './Nav.css'
 import HomeIcon from '@material-ui/icons/Home'
 import ThumbsUpIcon from '@material-ui/icons/ThumbUpSharp'
+import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
+import SupervisorAccountIcon from '@material-ui/icons/SupervisorAccount';
 
 function Nav({setSelectedOption}) {
     return (
@@ -20,7 +22,12 @@ function Nav({setSelectedOption}) {
                     <p>Vote</p>
                 </div>
             </div>
-            <h2>Products</h2>
+            <div className="header__icons">
+                <div className="header__icon header__icon--active">
+                    <ShoppingBasketIcon/>
+                    <p>Products</p>
+                </div>
+            </div>
             <h2>Support</h2>
         </div>
     </center>
