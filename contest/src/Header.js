@@ -1,5 +1,6 @@
 import React from 'react'
 import './Header.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import {Button} from 'react-bootstrap'
 // import HomeIcon from '@material-ui/icons/Home'
 // import FlashOnIcon from '@material-ui/icons/FlashOn'
