@@ -25,8 +25,6 @@ function Banner() {
                     </div>
 
                 </div>
-
-
         </section>
         </div>
     )
