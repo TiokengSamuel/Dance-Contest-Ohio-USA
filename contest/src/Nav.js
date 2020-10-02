@@ -37,7 +37,7 @@ function Nav({setSelectedOption}) {
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
                     <CardGiftcardIcon/>
-                    <p>Support Us</p>
+                    <p>Support</p>
                 </div>
             </div>
         </div>
