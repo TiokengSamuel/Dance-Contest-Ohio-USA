@@ -2,7 +2,7 @@ import React from 'react'
 
 function Banner() {
     return (
-        <div className="">
+        <div className="nanner">
             
         </div>
     )
