@@ -40,8 +40,8 @@ function Header() {
                 </div>
                 
             </div>*/}
-            <Button type="button" class="btn btn-raised btn-sm">Login</Button>
-            <Button type="button" class="btn btn-raised btn-sm">Sign Up</Button>
+            <Button variant="outline-light">Login</Button>{' '}
+            <Button variant="outline-light">Sign up</Button>{' '}
         </div>
     )
 }
