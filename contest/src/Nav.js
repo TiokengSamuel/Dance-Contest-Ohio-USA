@@ -34,7 +34,12 @@ function Nav({setSelectedOption}) {
                     <p>Products</p>
                 </div>
             </div>
-            <h2>Support</h2>
+            <div className="header__icons">
+                <div className="header__icon header__icon--active">
+                    <CardGiftcardIcon/>
+                    <p>Products</p>
+                </div>
+            </div>
         </div>
     </center>
     )
