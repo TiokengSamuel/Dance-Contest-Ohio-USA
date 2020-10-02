@@ -1,7 +1,7 @@
 import React from 'react'
 import './Nav.css'
 import HomeIcon from '@material-ui/icons/Home'
-import ThumbUpIcon from '@material-ui/icons/ThumbUpSharp'
+import ThumbsUpIcon from '@material-ui/icons/ThumbUpSharp'
 
 function Nav({setSelectedOption}) {
     return (
