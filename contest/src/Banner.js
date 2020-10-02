@@ -8,7 +8,7 @@ function Banner() {
                 <div className="slider-overlay">
                     <div className="slider-content">
                         
-                        <div className="text"></div>
+                        <div className="text">Empowering Kids All Over the World</div>
                         <div className="cta-div">
                             <a href="" className="btn1"><span className="con-text">Contact Us</span></a>
                         </div>
