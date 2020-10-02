@@ -1,20 +1,20 @@
 .nav {
-    display: flex;
-    color: white;
-    overflow-x: scroll;
-    padding: 10px;
-    padding-left: 40px;
+    display: flex!important;
+    color: white!important;
+    overflow-x: scroll!important;
+    padding: 10px!important;
+    padding-left: 40px!important;
     background-image: linear-gradient(to right, #051421, #042727);
 }
 
 /*Hiding scrollbar*/
 .nav::-webkit-scrollbar {
-    display: none;
+    display: none!important;
 }
 
 .nav {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
+    -ms-overflow-style: none!important;
+    scrollbar-width: none !important;
 }
 /*Hiding the scrollbar*/
 
@@ -25,6 +25,7 @@
     font-weight: 500;
     opacity: 0.7;
     transition: transform 70ms ease-out;
+    font-size: 40px;
 }
 
 .nav > h2:hover {
