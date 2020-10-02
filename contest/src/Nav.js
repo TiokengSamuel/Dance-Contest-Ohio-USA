@@ -1,5 +1,6 @@
 import React from 'react'
 import './Nav.css'
+import HomeIcon from '@material-ui/icons/Home'
 
 function Nav({setSelectedOption}) {
     return (
@@ -10,6 +11,7 @@ function Nav({setSelectedOption}) {
                     <HomeIcon/>
                     <p>Home</p>
                 </div>
+        </div>
             <h2>Contest</h2>
             <h2>Vote</h2>
             <h2>Products</h2>
