@@ -11,7 +11,7 @@ function Banner() {
                         
                         <div className="text">Empowering Kids All Over the World</div>
                         <div className="cta-div">
-                            <Button><span color="#042727" className="con-text">Contact Us</span></Button> 
+                            <Button><span className="con-text">Contact Us</span></Button> 
                         </div>
                         
 

@@ -69,4 +69,7 @@
     color: #ffffff;
 }
 
-
+.text {
+    font-weight: 400;
+    margin: 30px;
+}
