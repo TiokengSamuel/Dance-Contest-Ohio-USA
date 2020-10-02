@@ -39,7 +39,8 @@ function Header() {
                 </div>
                 
             </div>*/}
-            
+            <button type="button" class="btn btn-raised btn-sm">Small button</button>
+            <button type="button" class="btn btn-raised btn-sm">Small button</button>
         </div>
     )
 }
